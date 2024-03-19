@@ -6,4 +6,8 @@ seaborn
 python-dotenv
 mysql-connector-python
 pymysql
+catboost
+xgboost
+Flask
+dill
 # -e .
