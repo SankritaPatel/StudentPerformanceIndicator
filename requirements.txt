@@ -10,4 +10,5 @@ catboost
 xgboost
 Flask
 dill
+mlflow
 # -e .
