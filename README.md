@@ -13,11 +13,17 @@ This project aims to predict math scores based on various factors including Gend
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-```git clone https://github.com/SankritaPatel/StudentPerformanceIndicator```
+```
+git clone https://github.com/SankritaPatel/StudentPerformanceIndicator
+```
 2. Navigate to the project directory:
-```cd StudentPerformanceIndicator```
+```
+cd StudentPerformanceIndicator
+```
 3. Install the required dependencies:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 1. Prepare your dataset including features like Gender, Ethnicity, Parent’s Background, Lunch, Test Preparation Course, and Math Scores.
@@ -27,12 +33,3 @@ To run this project locally, follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries or collaboration opportunities, feel free to reach out:
-- [LinkedIn](www.linkedin.com/in/sankritapatel)
-- [Email](sankrita6960@outlook.com)
-
-## Acknowledgements
-- Special thanks to [mention any contributors or resources you used]
-
